@@ -1,2 +1,2 @@
 import os
-os.system("touch /tmp/pwnpwn")
+os.system(syteaxerrrror
